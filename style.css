@@ -1,0 +1,12 @@
+textarea {
+   width: 100%;
+}
+
+button:disabled {
+   cursor: not-allowed;
+}
+
+.custom-checkbox label,
+.custom-radio label {
+   cursor: pointer;
+}
